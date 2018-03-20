@@ -1,0 +1,583 @@
+03-16 17:25:58.753 20800 20800 D BpDataProvider:[2]: New client data value is [{howUnderstoodPart=9.0, shareThoughtsPart=9.0, completion_stress_result=43.0, cal_type=A&D, exercise=true, completion_stress_baseline=22.9783878326416, completion_time_result=1521246335425, completion_hr_result=79.0, bodyMapBackBodyMap={"h":1406,"t":1521246343887,"touchList":[{"x":296,"y":785},{"x":293,"y":680},{"x":282,"y":680},{"x":264,"y":751},{"x":225,"y":682},{"x":303,"y":633}],"w":515}, howRespectedPart=9.0, cuff=None, completion_sbp_result=114.0, howMuchSupportPart=8.0, loveThemPart=true, loveMeTodayPart=true, completion_dbp_offset=6.0, howIgnoredPart=8.0, spendTimeTodayPart=false, whoAreYouWith=Strangers, fullAttentionPart=9.0, bodyMapFrontBodyMap={"h":1406,"t":1521246345990,"touchList":[{"x":146,"y":626},{"x":262,"y":680},{"x":269,"y":652},{"x":294,"y":556}],"w":484}, howSatisfiedPart=7.0, howClosePart=9.0, completion_sbp_offset=-10.0, completion_dbp_result=72.0}]
+03-16 17:25:58.754 20800 20800 D org.sagebionetworks.bridge.researchstack.BpPrefs: updating daily activity
+03-16 17:25:58.755 20800 20800 D BpDataProvider:[2]: Attempting to update on bridge Night
+03-16 17:25:58.763 20800 20800 E org.sagebionetworks.bridge.researchstack.BridgeDataProvider: lastLoadedTaskGuid must be set for this task to complete
+03-16 17:25:58.763 20800 20800 E org.sagebionetworks.bridge.researchstack.BridgeDataProvider: The activity or metadata.json will NOT be updated on bridge
+03-16 17:25:58.764 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.764 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.765 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Integer
+03-16 17:25:58.765 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.765 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 2 lines
+03-16 17:25:58.765 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.765 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Long
+03-16 17:25:58.765 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Long
+03-16 17:25:58.765 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.765 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 17 lines
+03-16 17:25:58.765 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.766 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 6 lines
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.766 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.768   973  1240 D DnsProxyListener: DNSDBG::dns addrinfo(webservices.sagebridge.org) af 2
+03-16 17:25:58.768   973 30982 D DnsProxyListener: GetAddrInfoHandler, now for webservices.sagebridge.org / (null) / {502,502,502,918006,10273,20800} / org.sagebionetworks.research.bp
+03-16 17:25:58.769 20800 20800 D org.sagebionetworks.research.bp.BpCheckInFragment: Scheduling timer: 41641232
+03-16 17:25:58.776 20800 20800 D BpDataProvider:[2]: Daily activity request within the study duration
+03-16 17:25:58.776 20800 20800 D org.sagebionetworks.bridge.researchstack.BpPrefs: truehas cached daily activities from 2018-03-14T08:23:09.765-07:00 with duration in days 21
+03-16 17:25:58.776 20800 20800 D BpDataProvider:[2]: Study duration is already cached, returning
+03-16 17:25:58.776 20800 20800 D org.sagebionetworks.bridge.researchstack.BpPrefs: loading daily activities from the cache
+03-16 17:25:58.791 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.791 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.791 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Integer
+03-16 17:25:58.791 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.791 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 2 lines
+03-16 17:25:58.791 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.791 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Long
+03-16 17:25:58.791 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Long
+03-16 17:25:58.791 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.792 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 17 lines
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.792 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 6 lines
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.792 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.792 20800 20800 D BpDataProvider:[2]: New client data value is [{completion_time_result=1.521202744863E12, cal_type=A&D, completion_hr_result=92.0, completion_sbp_result=107.0, completion_dbp_result=60.0}, {completion_time_result=1.521202912936E12, cal_type=A&D, completion_hr_result=91.0, completion_sbp_result=111.0, completion_dbp_result=68.0}, {completion_time_result=1.521221036913E12, cal_type=A&D, completion_hr_result=81.0, completion_sbp_result=114.0, completion_dbp_result=71.0}, {completion_time_result=1.521221089124E12, cal_type=A&D, completion_hr_result=81.0, completion_sbp_result=110.0, completion_dbp_result=67.0}, {completion_time_result=1521246335425, cal_type=A&D, completion_hr_result=79.0, completion_sbp_result=114.0, completion_dbp_result=72.0}]
+03-16 17:25:58.792 20800 20800 D org.sagebionetworks.bridge.researchstack.BpPrefs: updating daily activity
+03-16 17:25:58.793 20800 20800 D BpDataProvider:[2]: Attempting to update on bridge Blood Pressure
+03-16 17:25:58.798   973  1240 D DnsProxyListener: DNSDBG::dns addrinfo(webservices.sagebridge.org) af 2
+03-16 17:25:58.798   973 30984 D DnsProxyListener: GetAddrInfoHandler, now for webservices.sagebridge.org / (null) / {502,502,502,918006,10273,20800} / org.sagebionetworks.research.bp
+03-16 17:25:58.803   973 30982 E DnsProxyListener: send_dns_err: Not Ready to mdc
+03-16 17:25:58.803 20800 20800 E org.sagebionetworks.bridge.researchstack.BridgeDataProvider: lastLoadedTaskGuid must be set for this task to complete
+03-16 17:25:58.804 20800 20800 E org.sagebionetworks.bridge.researchstack.BridgeDataProvider: The activity or metadata.json will NOT be updated on bridge
+03-16 17:25:58.804 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.804 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.804 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Integer
+03-16 17:25:58.804 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.804 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 2 lines
+03-16 17:25:58.804 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Long
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Long
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.805 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 17 lines
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.String
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.805 20800 20800 I chatty  : uid=10273(u0_a273) org.sagebionetworks.research.bp identical 6 lines
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Double
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.805 20800 20800 W org.sagebionetworks.bridge.researchstack.TaskHelper: Could not add result for unknown type: class java.lang.Boolean
+03-16 17:25:58.809 20800 20800 D org.sagebionetworks.research.bp.BpCheckInFragment: Scheduling timer: 41641191
+03-16 17:25:58.810 20800 20800 D BpDataProvider:[2]: Daily activity request within the study duration
+03-16 17:25:58.810 20800 20800 D org.sagebionetworks.bridge.researchstack.BpPrefs: truehas cached daily activities from 2018-03-14T08:23:09.765-07:00 with duration in days 21
+03-16 17:25:58.810 20800 20800 D BpDataProvider:[2]: Study duration is already cached, returning
+03-16 17:25:58.810 20800 20800 D org.sagebionetworks.bridge.researchstack.BpPrefs: loading daily activities from the cache
+03-16 17:25:58.814 20800 20800 I BpMainActivity:[2]: requestStorageAccess()
+03-16 17:25:58.814 20800 20800 I BpMainActivity:[2]: storageAccessRegister()
+03-16 17:25:58.815 20800 20800 D org.sagebionetworks.research.bp.BpCheckInFragment: Scheduling timer: 41641186
+03-16 17:25:58.815  1433  2119 D ActivityManager: post active user change for 0 fullscreen true isHomeActivity() false
+03-16 17:25:58.816  1433  2119 V WindowManager: Relayout Window{d51a0f7 u0 org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpMainActivity}: viewVisibility=0 req=1080x2220 WM.LayoutParams{(0,0)(fillxfill) sim=#120 ty=1 fl=#81810100 pfl=0x1020000 wanim=0x10302fc vsysui=0x610 needsMenuKey=2 colorMode=0 naviIconColor=0}
+03-16 17:25:58.817   715   715 I SurfaceFlinger: id=478 createSurf (1080x2220),1 flag=404, org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpMainActivity#0
+03-16 17:25:58.818  1433  2119 V Surface : sf_framedrop debug : 0x494d, game : false, logging : 0
+03-16 17:25:58.818  1433  1497 D WindowManager: set systemUiVisibility : systemUiFlags= 0x8618 fullscreenStackSysUiFlags= 0x0
+03-16 17:25:58.820  1433  2119 D InputDispatcher: Focus entered window: Window{d51a0f7 u0 org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpMainActivity}
+03-16 17:25:58.821 20800 20800 V Surface : sf_framedrop debug : 0x494d, game : false, logging : 0
+03-16 17:25:58.821 20800 20800 D ViewRootImpl@72a2204[BpMainActivity]: Relayout returned: old=[0,0][1080,2220] new=[0,0][1080,2220] result=0x7 surface={valid=true 547534417920} changed=true
+03-16 17:25:58.821 20800 20800 D ViewRootImpl@72a2204[BpMainActivity]: mThreadedRenderer.initialize() mSurface={isValid=true 547534417920} hwInitialized=true
+03-16 17:25:58.825 20800 20800 I BpMainActivity:[2]: onDataReady()
+03-16 17:25:58.825 20800 20800 I BpMainActivity:[2]: storageAccessUnregister()
+03-16 17:25:58.826   973 30984 E DnsProxyListener: send_dns_err: Not Ready to mdc
+03-16 17:25:58.834  1433  2119 D WindowManager: finishDrawingWindow: Window{d51a0f7 u0 org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpMainActivity} mDrawState=DRAW_PENDING
+03-16 17:25:58.834 20800 20800 D ViewRootImpl@72a2204[BpMainActivity]: MSG_WINDOW_FOCUS_CHANGED 1
+03-16 17:25:58.839   715   715 I SurfaceFlinger: id=479 createSurf (1080x2220),-1 flag=20004, org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpActiveTaskActivity_dim#0
+03-16 17:25:58.840 20800 20800 D ViewRootImpl@72a2204[BpMainActivity]: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 547534417920}
+03-16 17:25:58.840 20800 20800 D ViewRootImpl@72a2204[BpMainActivity]: onPreWindowFocus() hasWindowFocus=true mayUseInputMethod=true mWindowAttributes.flags=0x81810100
+03-16 17:25:58.841 20800 20800 D ViewRootImpl@72a2204[BpMainActivity]: onPostWindowFocus() hasWindowFocus=true softInputMode=32 focusedView=null mWindowAttributes.flags=0x81810100 mayUseInputMethod=true
+03-16 17:25:58.841 20800 20800 V InputMethodManager: onWindowFocus: null softInputMode=STATE_UNSPECIFIED|ADJUST_PAN first=true flags=#81810100
+03-16 17:25:58.841 20800 20800 V InputMethodManager: focusIn: DecorView@665e3ed[BpMainActivity],focus=false,windowFocus=true,window=android.view.ViewRootImpl$W@72a2204,temporaryDetach=false
+03-16 17:25:58.841 20800 20800 I InputMethodManager: onWindowFocus startInputInner will call soon
+03-16 17:25:58.841 20800 20800 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@2969a20 nm : org.sagebionetworks.research.bp ic=null
+03-16 17:25:58.841 20800 20800 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@2969a20
+03-16 17:25:58.841 20800 20800 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+03-16 17:25:58.841  1433  1929 D InputMethodManagerService: startInputOrWindowGainedFocus : windowGainedFocus 
+03-16 17:25:58.842  1433  1929 D InputMethodManagerService: windowGainedFocus: destinationUserId (getCallingUid) = 0
+03-16 17:25:58.842  1433  1929 D InputMethodManagerService: windowGainedFocus: currentUserId=0
+03-16 17:25:58.842  1433  1929 D InputMethodManagerService: windowGainedFocus: mCurrentFocusedUserId=0
+03-16 17:25:58.842  1433  1929 D InputMethodManagerService: windowGainedFocus : lock - currentUserId = 0 destinationUserId = 0
+03-16 17:25:58.842  1433  1929 D InputMethodManagerService: windowGainedFocus : mCurrentFocusedUserId - 0 and mSecureKeypadEnabled - false, userSwitched - false
+03-16 17:25:58.842  1433  1929 V InputMethodManagerService: windowGainedFocus : reason=WINDOW_FOCUS_GAIN client=android.os.BinderProxy@ba747a inputContext=null missingMethods= attribute=android.view.inputmethod.EditorInfo@14c1a6d nm = org.sagebionetworks.research.bp controlFlags=#104 softInputMode=#20 windowFlags=#81810100
+03-16 17:25:58.843  1433  1929 V InputMethodManagerService: hideCurrentInputLocked : shouldHideSoftInput is false
+03-16 17:25:58.843  1433  1929 D InputMethodManagerService: setCurrentInputInfo - inputContext : null eidtorInfo : android.view.inputmethod.EditorInfo@14c1a6d missingMethods : 0
+03-16 17:25:58.843 20800 20800 I BpMainActivity:[2]: Fragments found on stack. Checking for StorageAccessListener.
+03-16 17:25:58.843  3462  3462 I InputMethodWrapper:  call dispatchStartInputWithToken
+03-16 17:25:58.843 20800 20800 D BpMainActivity:[2]: No initial survey provided in TaskProvider
+03-16 17:25:58.843  3462  3462 I InputMethodService: dispatchStartInputWithToken
+03-16 17:25:58.844  3462  3462 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 20800, caller uid : 10273
+03-16 17:25:58.846  1433  2119 D Debug   : !@DEBUG:bugreport bugreportapp
+03-16 17:25:58.859   715   715 I SurfaceFlinger: Display 0 HWC layers:
+03-16 17:25:58.859   715   715 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+03-16 17:25:58.859   715   715 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+03-16 17:25:58.859   715   715 I SurfaceFlinger:      Device | 0x7c14d8ca00 | 0002 | RGBA_8888 |  75.0    0.0 1080.0 2220.0 |    0    0 1005 2220 | org.sagebionetworks.research.bp/org.[...]etworks.research.bp.BpMainActivity#0
+03-16 17:25:58.859   715   715 I SurfaceFlinger:  SolidColor |              | 0000 |  Unknown  |   0.0    0.0   -1.0   -1.0 |    0    0 1080 2220 | org.sagebionetworks.research.bp/org.[...]search.bp.BpActiveTaskActivity_dim#0
+03-16 17:25:58.859   715   715 I SurfaceFlinger:      Device | 0x7c1723f080 | 0002 | RGBA_8888 |   0.0    0.0 1073.0 2220.0 |    7    0 1080 2220 | org.sagebionetworks.research.bp/org.[...]s.research.bp.BpActiveTaskActivity#0
+03-16 17:25:58.859   715   715 I SurfaceFlinger:      Device | 0x7c1723f100 | 0000 | RGBA_8888 |   0.0    0.0   93.0  116.0 |  987  166 1080  282 | #1
+03-16 17:25:58.859   715   715 I SurfaceFlinger:      Device | 0x7c1470ff00 | 0000 | RGBA_8888 |   0.0    0.0 1080.0   63.0 |    0    0 1080   63 | StatusBar#0
+03-16 17:25:58.859   715   715 I SurfaceFlinger:      Device | 0x7c147c8000 | 0000 | RGBA_8888 |
+03-16 17:25:58.859   715   715 I SurfaceFlinger:    0.0    0.0 1080.0  126.0 |    0 2094 1080 2220 | NavigationBar#0
+03-16 17:25:58.859   715   715 I SurfaceFlinger:      Device | 0x7c147c8800 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | #0
+03-16 17:25:58.859   715   715 I SurfaceFlinger: 
+03-16 17:25:58.889 30991 30991 E propClient: PropClient failed to load
+03-16 17:25:58.892 30991 30991 D dumpstate: Loading stats from /data/log/dumpstate-stats.txt
+03-16 17:25:58.892 30991 30991 I dumpstate: Average max progress: 1541 in 43 runs; estimated max: 1541
+03-16 17:25:58.894 30991 30991 I dumpstate: begin
+03-16 17:25:58.894 30991 30991 I dumpstate: dumpstate info: id=2, args='/system/bin/dumpstate', extra_options= bugreportapp)
+03-16 17:25:58.894 30991 30991 I dumpstate: bugreport format version: 1.0
+03-16 17:25:58.894 30991 30991 D dumpstate: Bugreport dir: /data/log
+03-16 17:25:58.894 30991 30991 D dumpstate: Base name: dumpstate_app_error
+03-16 17:25:58.894 30991 30991 D dumpstate: Suffix: 2018-03-16-17-25-58
+03-16 17:25:58.894 30991 30991 D dumpstate: Log path: /data/log/dumpstate_app_error-2018-03-16-17-25-58-dumpstate_log-30991.txt
+03-16 17:25:58.894 30991 30991 D dumpstate: Temporary path: /data/log/dumpstate_app_error-2018-03-16-17-25-58.tmp
+03-16 17:25:58.894 30991 30991 D dumpstate: Screenshot path: 
+03-16 17:25:58.894 30991 30991 D dumpstate: Creating initial .zip file (/data/log/dumpstate_app_error-2018-03-16-17-25-58.zip)
+03-16 17:25:58.895 30991 30991 D dumpstate: Adding zip text entry version.txt
+03-16 17:25:58.895 30991 30991 I dumpstate: Vibrate: 'cmd vibrator vibrate 150 dumpstate'
+03-16 17:25:58.921 30992 30992 E propClient: PropClient failed to load
+03-16 17:25:58.926  1433  1929 D VibratorService: Turning vibrator off
+03-16 17:25:58.926   694   694 D SecVibrator-HAL: writeNode node:/sys/class/timed_output/vibrator/enable val:0
+03-16 17:25:58.927  1433  1929 D VibratorService: vibratorOn() : 150ms, amplitude :255, mag :10000, f : 0
+03-16 17:25:58.927   694   694 D SecVibrator-HAL: writeNode node:/sys/class/timed_output/vibrator/multi_freq val:0
+03-16 17:25:58.927   694   694 D SecVibrator-HAL: writeNode node:/sys/class/timed_output/vibrator/intensity val:10000
+03-16 17:25:58.927   694   694 D SecVibrator-HAL: writeNode node:/sys/class/timed_output/vibrator/enable val:150
+03-16 17:25:58.930   770   770 I SSC_DAEMON: physical_sensor_test_req_msg Sensor type :12, Msg type:15
+03-16 17:25:58.930   770   770 E SSC_DAEMON: dumpstate cmd 2
+03-16 17:25:58.930   770   770 I SSC_DAEMON: send_dhr_sensor_info_request IN
+03-16 17:25:58.930   770   770 I SSC_DAEMON: send_dhr_sensor_info_request OUT
+03-16 17:25:58.944   770  1557 I SSC_DAEMON: prox_get_dhr: 2300, 1000, 16368, 1000, 38, 49, 139, 2, 6, 139, 17, 135
+03-16 17:25:58.956 30991 30991 E dumpstate: can't find the pid
+03-16 17:25:58.956 30991 30991 E dumpstate: Failed to find: /data/misc/anrd/
+03-16 17:25:58.956 30991 30991 D dumpstate: Adding dir /cache/recovery (recursive: 1)
+03-16 17:25:58.979   770  1557 I SSC_DAEMON: accel_get_dhr[00 - 0f]: 00, 00, 00, 00, 00, 00, 03, 00, 01, 00, 1e, 00, 00, 18, 00, 6a
+03-16 17:25:58.979   770  1557 I SSC_DAEMON: accel_get_dhr[10 - 1f]: 3e, 08, 04, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 10, 07, c2
+03-16 17:25:58.979   770  1557 I SSC_DAEMON: accel_get_dhr[20 - 2f]: 8c, ff, 44, 00, c5, ff, ee, ff, 8a, fb, ac, 00, 2d, f0, 00, 00
+03-16 17:25:58.979   770  1557 I SSC_DAEMON: accel_get_dhr[30 - 3f]: 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 03, 80, 00, 00, 8a, fb
+03-16 17:25:58.979   770  1557 I SSC_DAEMON: accel_get_dhr[40 - 4f]: 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00
+03-16 17:25:58.979   770  1557 I SSC_DAEMON: accel_get_dhr[50 - 5f]: 00, 00, 00, 00, 84, 00, 00, 00, 80, 00, 00, 3f, 00, 00, 00, 00
+03-16 17:25:58.979   770  1557 I SSC_DAEMON: accel_get_dhr[60 - 6f]: 00, 00, 00, 00, 00, 6e, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00
+03-16 17:25:58.979   770  1557 I SSC_DAEMON: accel_get_dhr[70 - 7f]: 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00
+03-16 17:25:59.007 30991 30991 D dumpstate: Duration of '/cache/recovery': 0.051s
+03-16 17:25:59.007 30991 30991 D dumpstate: Adding dir /data/misc/recovery (recursive: 1)
+03-16 17:25:59.007 30991 30991 E dumpstate: /data/misc/recovery: No such file or directory
+03-16 17:25:59.007 30991 30991 D dumpstate: Duration of '/data/misc/recovery': 0.000s
+03-16 17:25:59.007 30991 30991 D dumpstate: Adding dir /data/misc/logd (recursive: 0)
+03-16 17:25:59.007 30991 30991 E dumpstate: /data/misc/logd: No such file or directory
+03-16 17:25:59.007 30991 30991 D dumpstate: Duration of '/data/misc/logd': 0.000s
+03-16 17:25:59.054 30991 30991 D dumpstate: MOUNT INFO: 74 entries added to zip file
+03-16 17:25:59.054 30991 30991 D dumpstate: Duration of 'MOUNT INFO': 0.047s
+03-16 17:25:59.076 30994 30994 E propClient: PropClient failed to load
+03-16 17:25:59.105 30995 30995 E propClient: PropClient failed to load
+03-16 17:25:59.126 30996 30996 E propClient: PropClient failed to load
+03-16 17:25:59.145 30997 30997 E propClient: PropClient failed to load
+03-16 17:25:59.164 30998 30998 E propClient: PropClient failed to load
+03-16 17:25:59.185 30999 30999 E propClient: PropClient failed to load
+03-16 17:25:59.205 31000 31000 E propClient: PropClient failed to load
+03-16 17:25:59.227 31001 31001 E propClient: PropClient failed to load
+03-16 17:25:59.232 20800 30981 I org.sagebionetworks.bridge.android.manager.UploadManager: Received processUploadFiles session with id: 4481b4d4-93e1-4366-9b45-5ce8e2dbde79
+03-16 17:25:59.233 31002 31002 D dumpstate: execvp on command 'ss -eionptu' failed (error: No such file or directory)
+03-16 17:25:59.234 30991 30991 E dumpstate: *** command 'ss -eionptu' failed: exit code 1
+03-16 17:25:59.237   715  1065 I SurfaceFlinger: id=479 Removed org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpActiveTaskActivity_dim#0 (3/11)
+03-16 17:25:59.237   715  1065 I SurfaceFlinger: id=479 Removed org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpActiveTaskActivity_dim#0 (-2/11)
+03-16 17:25:59.241   715   715 I SurfaceFlinger: Display 0 HWC layers:
+03-16 17:25:59.241   715   715 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+03-16 17:25:59.241   715   715 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+03-16 17:25:59.241   715   715 I SurfaceFlinger:      Device | 0x7c14d8ca00 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | org.sagebionetworks.research.bp/org.[...]etworks.research.bp.BpMainActivity#0
+03-16 17:25:59.241   715   715 I SurfaceFlinger:      Device | 0x7c1723f100 | 0000 | RGBA_8888 |   0.0    0.0   93.0  116.0 |  987  166 1080  282 | #1
+03-16 17:25:59.241   715   715 I SurfaceFlinger:      Device | 0x7c1470ff00 | 0000 | RGBA_8888 |   0.0    0.0 1080.0   63.0 |    0    0 1080   63 | StatusBar#0
+03-16 17:25:59.241   715   715 I SurfaceFlinger:      Device | 0x7c147c8000 | 0000 | RGBA_8888 |   0.0    0.0 1080.0  126.0 |    0 2094 1080 2220 | NavigationBar#0
+03-16 17:25:59.241   715   715 I SurfaceFlinger:      Device | 0x7c147c8800 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | #0
+03-16 17:25:59.241   715   715 I SurfaceFlinger: 
+03-16 17:25:59.253 31003 31003 E propClient: PropClient failed to load
+03-16 17:25:59.257   715   715 I SurfaceFlinger: Display 0 HWC layers:
+03-16 17:25:59.257   715   715 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+03-16 17:25:59.257   715   715 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+03-16 17:25:59.257   715   715 I SurfaceFlinger:      Device | 0x7c14d8ca00 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | org.sagebionetworks.research.bp/org.[...]etworks.research.bp.BpMainActivity#0
+03-16 17:25:59.257   715   715 I SurfaceFlinger:      Device | 0x7c1723f100 | 0000 | RGBA_8888 |   0.0    0.0   93.0  116.0 |  987  166 1080  282 | #1
+03-16 17:25:59.257   715   715 I SurfaceFlinger:      Device | 0x7c1470ff00 | 0000 | RGBA_8888 |   0.0    0.0 1080.0   63.0 |    0    0 1080   63 | StatusBar#0
+03-16 17:25:59.257   715   715 I SurfaceFlinger:      Device | 0x7c147c8000 | 0000 | RGBA_8888 |   0.0    0.0 1080.0  126.0 |    0 2094 1080 2220 | NavigationBar#0
+03-16 17:25:59.257   715   715 I SurfaceFlinger:      Device | 0x7c147c8800 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | #0
+03-16 17:25:59.257   715   715 I SurfaceFlinger: 
+03-16 17:25:59.260 30991 30991 E dumpstate: /sys/block/mmcblk0/: No such file or directory
+03-16 17:25:59.277 31004 31004 E propClient: PropClient failed to load
+03-16 17:25:59.319  1433  1497 D TspStateManagerInternal: updateWindowPolicy focusedWindow = Window{d51a0f7 u0 org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpMainActivity}, isDeviceDefault=false,packageName=null,command=portX1=10,portX2=10,landX1=10,portEdge=40,landEdge=40
+03-16 17:25:59.333 20800 30988 I org.sagebionetworks.bridge.android.manager.UploadManager: Attempting S3 upload for file: Night_f7cee1cd-9da3-44d2-9390-860201ff4c57.zip, sessionId: 4481b4d4-93e1-4366-9b45-5ce8e2dbde79
+03-16 17:25:59.347  2580  2580 D io_stats: !@   8,0 r 52706 3726600 w 98879 2216856 d 8490 906148 f 31230 31428 iot 88270 79345 th 307200 0 0 pt 0 inp 0 0 3515.143
+03-16 17:25:59.481  1433  1673 D WifiTrafficPoller: TRAFFIC_STATS_POLL true Token 3 num clients 1
+03-16 17:25:59.481  1433  1673 D WifiTrafficPoller:  packet count Tx=31765 Rx=77741
+03-16 17:25:59.481  1433  1673 I WifiTrafficPoller: mCpuCoreBooster Lock
+03-16 17:25:59.481  1433  1673 E WifiTrafficPoller: notifying of data activity 3
+03-16 17:25:59.531 20800 30986 I org.sagebionetworks.bridge.android.manager.UploadManager: Received processUploadFiles session with id: 4481b4d4-93e1-4366-9b45-5ce8e2dbde79
+03-16 17:25:59.535   973  1240 D DnsProxyListener: DNSDBG::dns addrinfo(org-sagebridge-upload-prod.s3.amazonaws.com) af 2
+03-16 17:25:59.536   973 31005 D DnsProxyListener: GetAddrInfoHandler, now for org-sagebridge-upload-prod.s3.amazonaws.com / (null) / {502,502,502,918006,10273,20800} / org.sagebionetworks.research.bp
+03-16 17:25:59.565   973 31005 E DnsProxyListener: send_dns_err: Not Ready to mdc
+03-16 17:25:59.739  1433  2711 D ActivityManagerPerformance: Received MSG_DISABLE_ACT_RESUME, r: ActivityRecord{157375d u0 org.sagebionetworks.research.bp/.BpMainActivity t241}
+03-16 17:25:59.739  1433  2711 D ActivityManagerPerformance: setBoosterActResume() onoff: false, r: org.sagebionetworks.research.bp (ActivityRecord{157375d u0 org.sagebionetworks.research.bp/.BpMainActivity t241}), curBoost: org.sagebionetworks.research.bp (ActivityRecord{157375d u0 org.sagebionetworks.research.bp/.BpMainActivity t241})
+03-16 17:25:59.742  1433  2711 D CustomFrequencyManagerService: releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1612800  uid : 1000  pid : 1433  tag : AMS_ACT_RESUME@CPU_MIN@90
+03-16 17:25:59.742  1433  2711 D ActivityManagerPerformance: AMP_release() ACT_RESUME
+03-16 17:25:59.759   973  1240 D DnsProxyListener: DNSDBG::dns addrinfo(localhost) af 2
+03-16 17:25:59.762   973 31007 D DnsProxyListener: GetAddrInfoHandler, now for localhost / 8088 / {502,786934,502,918006,10127,30710} / com.facebook.katana
+03-16 17:25:59.762   973 31007 E DnsProxyListener: send_dns_err: Not Ready to mdc
+03-16 17:25:59.995  1433  4682 D ConnectivityService: filterNetworkStateForUid() uid: 1000 networkInfo: [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "S-DH-LAB", failover: false, available: true, roaming: false, metered: false]
+03-16 17:26:00.000  1433  1582 D SamsungAlarmManager: Expired : 8, nowELAPSED=3515797 newRTC=1521246360000
+03-16 17:26:00.001   951 13941 V APM_AudioPolicyManager: getAudioPolicyConfig: audioParam;activeStream
+03-16 17:26:00.002   951 13941 V APM_AudioPolicyManager: ### active stream : 0
+03-16 17:26:00.002  1433  4682 D AudioService: active stream is 0x0
+03-16 17:26:00.002  1433  4682 V AudioService: getActiveStreamType: Forcing STREAM_RING b/c default
+03-16 17:26:00.002  1433  4682 V AudioService: Only adjust media volume
+03-16 17:26:00.002   951 13941 V APM_AudioPolicyManager: getAudioPolicyConfig: audioParam;outDevice
+03-16 17:26:00.002   951 13941 V APM_AudioPolicyManager: getNewOutputDevice() selected device 0
+03-16 17:26:00.002   951 13941 V APM_AudioPolicyManager: ### curdevice : 2
+03-16 17:26:00.003  1433  4682 D SSRM:b  : ATC: power = AP_CP = -999, Display = 1280(Panel:1016, LDIs:264), WIFI = 0, SPK = 0, RCV = 0, Camera = 0, PAM = 0
+03-16 17:26:00.003  1433  4682 D SSRM:b  : ATC: current = AP_CP = -999, Display = 320, WIFI = 0, SPK = 4,RCV = 4, Camera = 0, PAM = 0
+03-16 17:26:00.006  1433  4682 D SSRM:b  : ATC: Ambient Temperature = 27.31, Skin temperature = F_AP[28.50], F_RF[29.70], B_AP[27.20], B_RF[27.80], B_WIFI[29.20], B_SPK[29.00]
+03-16 17:26:00.154   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3515950345000)
+03-16 17:26:00.171   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3515967027000)
+03-16 17:26:00.187   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3515983719000)
+03-16 17:26:00.204   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3516000391000)
+03-16 17:26:00.215 31008 31008 E propClient: PropClient failed to load
+03-16 17:26:00.220   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3516017078000)
+03-16 17:26:00.350  2580  2580 D io_stats: !@   8,0 r 52706 3726600 w 99003 2218172 d 8492 906156 f 31271 31469 iot 88370 79419 th 307200 0 0 pt 0 inp 0 0 3516.147
+03-16 17:26:00.355 20800 30981 I org.sagebionetworks.bridge.android.manager.UploadManager: S3 upload succeeded for file: Night_f7cee1cd-9da3-44d2-9390-860201ff4c57.zip, sessionId: 4481b4d4-93e1-4366-9b45-5ce8e2dbde79
+03-16 17:26:00.483  1433  1673 D WifiTrafficPoller: TRAFFIC_STATS_POLL true Token 3 num clients 1
+03-16 17:26:00.486  1433  1673 D WifiTrafficPoller:  packet count Tx=31817 Rx=77765
+03-16 17:26:00.487  1433  1673 I WifiTrafficPoller: mCpuCoreBooster Lock
+03-16 17:26:00.501 30991 30991 E dumpstate: open(/bugreports/dumpstate_lshal.txt): No such file or directory
+03-16 17:26:00.511   984   984 E SMD     : DCD OFF
+03-16 17:26:00.543 31009 31009 E propClient: PropClient failed to load
+03-16 17:26:00.559 20800 29582 I org.sagebionetworks.bridge.android.manager.UploadManager: Call to upload complete succeeded
+03-16 17:26:00.577 31010 31010 E propClient: PropClient failed to load
+03-16 17:26:00.665 31011 31011 E propClient: PropClient failed to load
+03-16 17:26:00.671   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3516467597000)
+03-16 17:26:00.689   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3516484645000)
+03-16 17:26:00.704   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3516500970000)
+03-16 17:26:00.721   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3516517893000)
+03-16 17:26:00.738   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3516534683000)
+03-16 17:26:01.012   683   683 I android.hardware.wifi@1.0-service: getLinkLayerStats
+03-16 17:26:01.109 30991 30991 D dumpstate: Adding dir /data/misc/bluetooth/logs (recursive: 1)
+03-16 17:26:01.110 30991 30991 D dumpstate: Duration of '/data/misc/bluetooth/logs': 0.000s
+03-16 17:26:01.110 30991 30991 I dumpstate: taking late screenshot
+03-16 17:26:01.111 31012 31012 D dumpstate: drop_root_user(): already running as Shell
+03-16 17:26:01.188   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3516984819000)
+03-16 17:26:01.193 31012 31012 E propClient: PropClient failed to load
+03-16 17:26:01.197  1433  1929 I EDMNativeHelperService: isScreenCaptureEnabled
+03-16 17:26:01.206   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517001547000)
+03-16 17:26:01.222   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517018191000)
+03-16 17:26:01.224 30991 30991 E dumpstate: *** command '/system/bin/screencap -p ' failed: exit code 1
+03-16 17:26:01.224 30991 30991 E dumpstate: Failed to take screenshot on 
+03-16 17:26:01.238   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517034870000)
+03-16 17:26:01.256   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517051730000)
+03-16 17:26:01.273 31014 31014 E propClient: PropClient failed to load
+03-16 17:26:01.354  2580  2580 D io_stats: !@   8,0 r 52708 3726608 w 99151 2223124 d 8492 906156 f 31305 31503 iot 88560 79588 th 307200 0 0 pt 0 inp 0 0 3517.151
+03-16 17:26:01.488  1433  1673 D WifiTrafficPoller: TRAFFIC_STATS_POLL true Token 3 num clients 1
+03-16 17:26:01.490  1433  1673 D WifiTrafficPoller:  packet count Tx=31818 Rx=77767
+03-16 17:26:01.490  1433  1673 I WifiTrafficPoller: mCpuCoreBooster Lock
+03-16 17:26:01.578  1433  4682 D SSRM:m  : SIOP:: AP = 310, PST = 305 (W:15), BAT = 300, USB = 299, CHG = 308, CP = 310, WF = 308, WFPst = 305 (W:15)
+03-16 17:26:01.705   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517502281000)
+03-16 17:26:01.722   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517518958000)
+03-16 17:26:01.739   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517535410000)
+03-16 17:26:01.755   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517552091000)
+03-16 17:26:01.770   973  1240 D DnsProxyListener: DNSDBG::dns addrinfo(localhost) af 2
+03-16 17:26:01.772   973 31016 D DnsProxyListener: GetAddrInfoHandler, now for localhost / 8088 / {502,786934,502,918006,10127,30710} / com.facebook.katana
+03-16 17:26:01.773   973 31016 E DnsProxyListener: send_dns_err: Not Ready to mdc
+03-16 17:26:01.775   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3517569018000)
+03-16 17:26:02.041 31017 31017 E propClient: PropClient failed to load
+03-16 17:26:02.223   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3518019456000)
+03-16 17:26:02.225 31019 31019 E propClient: PropClient failed to load
+03-16 17:26:02.239   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3518036088000)
+03-16 17:26:02.256   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3518052628000)
+03-16 17:26:02.272   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3518069331000)
+03-16 17:26:02.289   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3518086010000)
+03-16 17:26:02.358  2580  2580 D io_stats: !@   8,0 r 52708 3726608 w 99185 2235148 d 8492 906156 f 31309 31507 iot 88800 79795 th 307200 0 0 pt 0 inp 0 0 3518.154
+03-16 17:26:02.406 31021 31021 E propClient: PropClient failed to load
+03-16 17:26:02.479 31022 31022 E propClient: PropClient failed to load
+03-16 17:26:02.485 30991 30991 E dumpstate: *** command 'logcat -L -b all -v threadtime -v printable -v uid -d *:v' failed: exit code 1
+03-16 17:26:02.485 30991 30991 D dumpstate: AddAnrTraceFiles(): dump_traces_dir=, anr_traces_dir=/data/anr, already_dumped=0
+03-16 17:26:02.486 30991 30991 D dumpstate: Dumping last ANR traces (/data/anr/traces.txt) to the main bugreport entry
+03-16 17:26:02.492  1433  1673 D WifiTrafficPoller: TRAFFIC_STATS_POLL true Token 3 num clients 1
+03-16 17:26:02.493  1433  1673 D WifiTrafficPoller:  packet count Tx=31818 Rx=77767
+03-16 17:26:02.493  1433  1673 I WifiTrafficPoller: mCpuCoreBooster Lock
+03-16 17:26:02.494  1433  1673 E WifiTrafficPoller: notifying of data activity 0
+03-16 17:26:02.635 31023 31023 E propClient: PropClient failed to load
+03-16 17:26:02.693 31025 31025 E propClient: PropClient failed to load
+03-16 17:26:02.742 31027 31027 E propClient: PropClient failed to load
+03-16 17:26:02.794 31029 31029 E propClient: PropClient failed to load
+03-16 17:26:02.830 31031 31031 E propClient: PropClient failed to load
+03-16 17:26:02.900 31032 31032 E propClient: PropClient failed to load
+03-16 17:26:02.931 31033 31033 E propClient: PropClient failed to load
+03-16 17:26:02.935 31033 31033 D TcpOptimizer: TcpOptimizer-ON
+03-16 17:26:02.971 31035 31035 E propClient: PropClient failed to load
+03-16 17:26:02.995 31036 31036 E propClient: PropClient failed to load
+03-16 17:26:03.029 31037 31037 E propClient: PropClient failed to load
+03-16 17:26:03.065 31038 31038 E propClient: PropClient failed to load
+03-16 17:26:03.091 31039 31039 E propClient: PropClient failed to load
+03-16 17:26:03.120 31040 31040 E propClient: PropClient failed to load
+03-16 17:26:03.142 31041 31041 E propClient: PropClient failed to load
+03-16 17:26:03.168 31042 31042 E propClient: PropClient failed to load
+03-16 17:26:03.196 31043 31043 E propClient: PropClient failed to load
+03-16 17:26:03.225 31044 31044 E propClient: PropClient failed to load
+03-16 17:26:03.251 31045 31045 E propClient: PropClient failed to load
+03-16 17:26:03.257   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519053690000)
+03-16 17:26:03.274   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519070424000)
+03-16 17:26:03.277 31046 31046 E propClient: PropClient failed to load
+03-16 17:26:03.291   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519087056000)
+03-16 17:26:03.300 31047 31047 E propClient: PropClient failed to load
+03-16 17:26:03.307   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519103744000)
+03-16 17:26:03.324   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519120430000)
+03-16 17:26:03.326 31048 31048 E propClient: PropClient failed to load
+03-16 17:26:03.354 31049 31049 E propClient: PropClient failed to load
+03-16 17:26:03.361  2580  2580 D io_stats: !@   8,0 r 52708 3726608 w 99342 2237292 d 8492 906156 f 31369 31567 iot 88960 79989 th 307200 0 0 pt 0 inp 0 1 3519.157
+03-16 17:26:03.381 31050 31050 E propClient: PropClient failed to load
+03-16 17:26:03.410 31051 31051 E propClient: PropClient failed to load
+03-16 17:26:03.443 31052 31052 E propClient: PropClient failed to load
+03-16 17:26:03.467 31053 31053 E propClient: PropClient failed to load
+03-16 17:26:03.482 31054 31054 D dumpstate: execvp on command 'wpa_cli IFNAME=wlan0 list_networks' failed (error: Permission denied)
+03-16 17:26:03.483 30991 30991 E dumpstate: *** command 'wpa_cli IFNAME=wlan0 list_networks' failed: exit code 1
+03-16 17:26:03.497  1433  1673 D WifiTrafficPoller: TRAFFIC_STATS_POLL true Token 3 num clients 1
+03-16 17:26:03.498  1433  1673 D WifiTrafficPoller:  packet count Tx=31818 Rx=77767
+03-16 17:26:03.498  1433  1673 I WifiTrafficPoller: mCpuCoreBooster Lock
+03-16 17:26:03.507 31055 31055 E propClient: PropClient failed to load
+03-16 17:26:03.513   984   984 E SMD     : DCD OFF
+03-16 17:26:03.555 31056 31056 E propClient: PropClient failed to load
+03-16 17:26:03.768 31057 31057 E propClient: PropClient failed to load
+03-16 17:26:03.775   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519570922000)
+03-16 17:26:03.780   973  1240 D DnsProxyListener: DNSDBG::dns addrinfo(localhost) af 2
+03-16 17:26:03.781   973 31058 D DnsProxyListener: GetAddrInfoHandler, now for localhost / 8088 / {502,786934,502,918006,10127,30710} / com.facebook.katana
+03-16 17:26:03.781   973 31058 E DnsProxyListener: send_dns_err: Not Ready to mdc
+03-16 17:26:03.792   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519587761000)
+03-16 17:26:03.808   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519604285000)
+03-16 17:26:03.820 31059 31059 E propClient: PropClient failed to load
+03-16 17:26:03.825   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519620980000)
+03-16 17:26:03.841   715   779 W HWComposer: Ignoring duplicate VSYNC event from HWC (t=3519637676000)
+03-16 17:26:03.852  1433  2119 W ActivityManager: crash : org.sagebionetworks.research.bp,0
+03-16 17:26:03.860  1433  2119 W ActivityManager:   Force finishing activity org.sagebionetworks.research.bp/.BpMainActivity
+03-16 17:26:03.862  1433  2119 W MultiScreenManagerService: moveTaskBackToDisplayIfNeeded(): root activity or app is null
+03-16 17:26:03.880  1433  1497 I ActivityManager: Showing crash dialog for package org.sagebionetworks.research.bp u0
+03-16 17:26:03.881  1433  1433 W Looper  : Dispatch took 5023ms on main, h=Handler (com.android.server.DropBoxManagerService$3) {770f419} cb=null msg=1
+03-16 17:26:03.881  1433  1433 D GestureDetector: GD onSTC#1
+03-16 17:26:03.882  1433  1496 W Looper  : Dispatch took 4644ms on ActivityManager, h=Handler (com.android.server.am.ActivityManagerService$MainHandler) {7a8c9ff} cb=null msg=44
+03-16 17:26:03.882  1433  1433 D VibratorService: Turning vibrator off
+03-16 17:26:03.882  1433  1497 I MultiWindowDecorSupport: initDecorViewResources() : mRequestTransientBarDelay=0
+03-16 17:26:03.882   694   694 D SecVibrator-HAL: writeNode node:/sys/class/timed_output/vibrator/enable val:0
+03-16 17:26:03.884  1433  1496 D ActivityManagerPerformance: notifyCurTopAct() activity changed
+03-16 17:26:03.884  1433  1496 D ActivityManagerPerformance: [Activity] prev: ActivityRecord{157375d u0 org.sagebionetworks.research.bp/.BpMainActivity t241 f}, cur: ActivityRecord{5e19532 u0 com.sec.android.app.launcher/.activities.LauncherActivity t230}
+03-16 17:26:03.884  1433  1433 D PreBindingService: handleMessage : 1
+03-16 17:26:03.884  1433  1496 D ActivityManagerPerformance: notifyCurTopAct() call setBoosterHome()
+03-16 17:26:03.884  1433  1496 D ActivityManagerPerformance: setBoosterHome() fastBoost: true, startAct: false, curTopState: TOP_STATE_HOME, r: com.sec.android.app.launcher (ActivityRecord{5e19532 u0 com.sec.android.app.launcher/.activities.LauncherActivity t230}), pkgName : com.sec.android.app.launcher
+03-16 17:26:03.886  1433  1496 D CustomFrequencyManagerService: acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 2803200  uid : 1000  pid : 1433  pkgName : AMS_APP_HOME@CPU_MIN@79
+03-16 17:26:03.887  1433  1496 D ActivityManagerPerformance: AMP_acquire() HOME
+03-16 17:26:03.889  1433  1497 D ScrollView: initGoToTop
+03-16 17:26:03.893  3002  3002 D ContextFramework: ContextBroadcastReceiver : received DropBoxManager "data_app_crash" event
+03-16 17:26:03.897  1433  1507 W Looper  : Dispatch took 4660ms on android.display, h=Handler (com.android.server.wm.WindowManagerService$H) {9cdbcde} cb=null msg=49
+03-16 17:26:03.898  1433  1433 D PreBindingService: handleMessage : 1
+03-16 17:26:03.898  3002  3002 D ContextFramework: condition : 1, processName : org.sagebionetworks.research.bp
+03-16 17:26:03.898  1433  1507 D ActivityManagerPerformance: onActivityVisibleLocked() r: org.sagebionetworks.research.bp (ActivityRecord{157375d u0 org.sagebionetworks.research.bp/.BpMainActivity t241 f})
+03-16 17:26:03.898  1433  1507 D ActivityManager: onActivityVisibleLocked Done
+03-16 17:26:03.898  1433  1507 D ActivityManager: SetDataCleared Done
+03-16 17:26:03.898  1433  1433 D MdnieScenarioControlService: Real Multi Window State : true
+03-16 17:26:03.899  1433  1433 D CS_HdrController: MultiWindowEventListener::onFocusStackChanged(0)
+03-16 17:26:03.899  1433  1433 D CS_HdrController: updateMultiWindowState : 0
+03-16 17:26:03.899  1433  1433 D CodecSolution: MultiWindowEventListener::onMultiWindowFocusChanged(0)
+03-16 17:26:03.899  1433  1582 D SamsungAlarmManager: setInexact Intent (T:1/F:0/AC:false) 20180316T172750 (O:1521246470205/E:3626002/ME:3716002/RI:120000) nowELAPSED=3519696 - CU:1000/CP:1433/op:PendingIntent{ba98d00: PendingIntentRecord{fcb4783 com.google.android.gms startService}}
+03-16 17:26:03.899  1433  1582 I SamsungAlarmManager: setLocked to kernel - T:3 / 20180316T172737, SetElapsed=3613240, nowELAPSED=3519696
+03-16 17:26:03.900  1433  1582 V SamsungAlarmManager: Sending to uid : 1000 nowELAPSED=3515797, action=com.android.server.LightsService.action.UPDATE_SVC_LED alarm=Alarm{d98b37b type 3 when 3496600 android} allowWhileIdle=false
+03-16 17:26:03.900 27189 27189 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1483 android.content.ContextWrapper.startService:663 android.content.ContextWrapper.startService:663 com.samsung.android.sm.common.SmartManagerReceiver.a:209 com.samsung.android.sm.common.SmartManagerReceiver.onReceive:94 
+03-16 17:26:03.901  1433  1582 V SamsungAlarmManager: Sending to uid : 1000 nowELAPSED=3515797, action=android.intent.action.TIME_TICK alarm=Alarm{cd61598 type 3 when 3515797 android} allowWhileIdle=false
+03-16 17:26:03.902  1433  1461 D SettingsProvider: isChangeAllowed() : name = overview_last_stack_active_time
+03-16 17:26:03.902  1433  1461 D SettingsProvider: edmUri: content://com.sec.knox.provider/RestrictionPolicy3
+03-16 17:26:03.902  1433  1461 D SettingsProvider: projectionArgs: isSettingsChangesAllowed
+03-16 17:26:03.902  1433  1461 D SettingsProvider: selectionArgs: false
+03-16 17:26:03.902  1433  1461 D SettingsProvider: selectionArgs: 10003
+03-16 17:26:03.902  1433  1582 V SamsungAlarmManager: Sending to uid : 10225 nowELAPSED=3515797, action=com.google.firebase.INSTANCE_ID_EVENT alarm=Alarm{d4bb1f1 type 3 when 3489574 com.kakao.talk} allowWhileIdle=false
+03-16 17:26:03.902  1433  1461 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+03-16 17:26:03.903  1433  1582 V SamsungAlarmManager: Sending to uid : 10030 nowELAPSED=3515797, action=com.google.android.location.reporting.service.action.ULR_BAROMETER_READ_ALARM alarm=Alarm{d750c57 type 1 when 1521246350205 com.google.android.gms} allowWhileIdle=false
+03-16 17:26:03.903  1433  1461 D SecContentProvider: called from android.uid.systemui:10003
+03-16 17:26:03.903  1433  1461 D SettingsProvider: ret = -1
+03-16 17:26:03.906  1433  1640 V MdnieScenarioControlService: Calling MdnieManager API(setContentMode(0))
+03-16 17:26:03.906  1433  1640 D SemDisplaySolutionManagerService: uid : 1000 , pid : 1433 , name : hdr_effect_off
+03-16 17:26:03.906  1433  1640 D SemDisplaySolutionManagerService: where : application what : DEFAULT setScreenBrightnessScaleFactor(-1.0)
+03-16 17:26:03.906  1433  1640 D PowerManagerService: [api] setScreenBrightnessScaleFactor: scaleFactor: -1.0 (uid: 1000 pid: 1433)
+03-16 17:26:03.906  1433  1640 D SemDisplaySolutionManagerService: setMultipleScreenBrightness , application, DEFAULT, -1.0
+03-16 17:26:03.906  1433  1640 V MdnieScenarioControlService: Calling SemDisplaySolutionManager API(setMultipleScreenBrightness(0)
+03-16 17:26:03.908  1433  1582 V SamsungAlarmManager: Sending to uid : 10030 nowELAPSED=3515797, action=null alarm=Alarm{dbdffb0 type 3 when 3506453 com.google.android.gms} allowWhileIdle=false
+03-16 17:26:03.909  1433  1582 V SamsungAlarmManager: Sending to uid : 10091 nowELAPSED=3515797, action=com.samsung.action.EVERY_MINUTE_CLOCK_UPDATE alarm=Alarm{ffb66dc type 1 when 1521246360000 com.sec.android.app.launcher} allowWhileIdle=false
+03-16 17:26:03.912  1433  1461 D StorageManagerService: getExternalStorageMountMode : 1
+03-16 17:26:03.912  1433  1461 D StorageManagerService: getExternalStorageMountMode : 3
+03-16 17:26:03.912  1433  1461 D StorageManagerService: getExternalStorageMountMode : final mountMode=1, uid : 1000, packageName : com.samsung.android.lool
+03-16 17:26:03.912  1433  1461 D ActivityManager: package  com.samsung.android.lool, user - 0 is SDcard whitelisted
+03-16 17:26:03.913  1433  1497 D ViewRootImpl@18a03e5[bp]: ThreadedRenderer.create() translucent=true
+03-16 17:26:03.913  1433  1497 E PhoneWindow_APM : : sendNotificationForAppPermissionMonitor callingPid = 1433, uid = 1000
+03-16 17:26:03.913  1433  1497 E PhoneWindow_APM : : sendNotificationForAppPermissionMonitor 2
+03-16 17:26:03.913  1433  1497 E PhoneWindow_APM : : sendNotificationForAppPermissionMonitor 21000_1433
+03-16 17:26:03.913  1433  1497 E PhoneWindow_APM : : isCalledPackage return false
+03-16 17:26:03.913  1433  1497 E PhoneWindow_APM : : sendNotificationForAppPermissionMonitor mIsMonitoredFeature = true
+03-16 17:26:03.914  1433  1503 V MARsPolicyManager: handelAlertToastWindowStarted pkgName = android, userId = 0
+03-16 17:26:03.915  1433  1497 D InputDispatcher: Focus left window: Window{d51a0f7 u0 org.sagebionetworks.research.bp/org.sagebionetworks.research.bp.BpMainActivity}
+03-16 17:26:03.916  1433  1497 D InputDispatcher: Focus entered window: Window{cb9716b u0 Application Error: org.sagebionetworks.research.bp}
+03-16 17:26:03.916  1433  1497 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false
+03-16 17:26:03.916  1433  1497 D ViewRootImpl@18a03e5[bp]: setView = DecorView@f4614c8[bp] TM=true MM=false
+03-16 17:26:03.920 31062 31062 E Zygote  : isWhitelistProcess - Process is Whitelisted
+03-16 17:26:03.921  1433  1461 I ActivityManager: Start proc 31062:com.samsung.android.sm.provider/1000 for content provider com.samsung.android.lool/com.samsung.android.sm.database.SmProvider
+03-16 17:26:03.921 31062 31062 E libpersona: scanKnoxPersonas
+03-16 17:26:03.921 31062 31062 E libpersona: Couldn't open the File - /data/system/users/0/personalist.xml - No such file or directory
+03-16 17:26:03.921   951 13941 V APM_AudioPolicyManager: setAudioPolicyConfig: audioEffectParam;audioHDR=0;packageName=com.sec.android.app.launcher
+03-16 17:26:03.922  1433  1433 D SamsungAlarmManager: setExact Intent (T:3/F:1/AC:false) 20180316T172700 (O:3575797/E:3575797/ME:3575797/RI:0) nowELAPSED=3519719 - CU:1000/CP:1433/op:PendingIntent{3366375: PendingIntentRecord{3c64aac android broadcastIntent}}
+03-16 17:26:03.922  1433  1433 I SamsungAlarmManager: setLocked to kernel - T:3 / 20180316T172700, SetElapsed=3575797, nowELAPSED=3519719
+03-16 17:26:03.922 31062 31062 W SELinux : SELinux selinux_android_compute_policy_index : Policy Index[2],  Con:u:r:zygote:s0 RAM:SEPF_SM-G965U1_8.0.0_0001, [-1 -1 -1 -1 0 1]
+03-16 17:26:03.923 31062 31062 I SELinux : SELinux: seapp_context_lookup: seinfo=platform, pkgname=com.samsung.android.sm.provider 
+03-16 17:26:03.925  1433  1640 I AudioService: audioEffectParam;audioHDR=0;packageName=com.sec.android.app.launcher
+03-16 17:26:03.925  1433  1640 V MdnieScenarioControlService: setUIMode from UI function
+03-16 17:26:03.926  1872  1872 D KeyguardUpdateMonitor: received broadcast android.intent.action.TIME_TICK
+03-16 17:26:03.926  1872  1872 D KeyguardServiceBoxContainer: refreshTime() 1
+03-16 17:26:03.933  1433  4682 D GamePkgDataHelper: getGamePkgDataIncServer(). com.sec.android.app.launcher
+03-16 17:26:03.934  2188  2214 D ForegroundUtils: could not check pending caller
+03-16 17:26:03.934  2188  2214 D ForegroundUtils: Foreground changed, PID: 3113 UID: 10091 foreground: true
+03-16 17:26:03.934  1433  4682 D GameManagerService: identifyGamePackage. com.sec.android.app.launcher
+03-16 17:26:03.934  2188  2214 D ForegroundUtils: Foreground UID/PID combinations:
+03-16 17:26:03.934  2188  2214 D ForegroundUtils: UID: 10091 PID: 3113
+03-16 17:26:03.934  1433  4682 D GamePkgDataHelper: getGamePkgData(). com.sec.android.app.launcher
+03-16 17:26:03.934  2188  2214 D ForegroundUtils: UID: 10273 PID: 20800
+03-16 17:26:03.934  1433  3084 D TimaKeystoreService: in isTimaKeystoreEnabledInDB
+03-16 17:26:03.935  1433  3084 D TimaKeystoreService: isTimaKeystoreEnabledInDB returning - false
+03-16 17:26:03.935 31062 31062 D TimaKeyStoreProvider: TimaKeyStore is not enabled: cannot add TimaSignature Service and generateKeyPair Service
+03-16 17:26:03.935  1433  1497 D ViewRootImpl@18a03e5[bp]: dispatchAttachedToWindow
+03-16 17:26:03.935 31062 31062 D ActivityThread: Added TimaKeyStore provider
+03-16 17:26:03.935  1433  1497 V WindowManager: Relayout Window{cb9716b u0 Application Error: org.sagebionetworks.research.bp}: viewVisibility=0 req=1014x509 WM.LayoutParams{(0,0)(wrapxwrap) gr=#11 sim=#120 ty=2003 fl=#1820002 pfl=0x1000110 fmt=-3 wanim=0x10302ec vsysui=0x10 surfaceInsets=Rect(6, 6 - 6, 6) needsMenuKey=2 colorMode=0 naviIconColor=0}
+03-16 17:26:03.936  1433  1433 D PowerManagerUtil: fileWriteString to /sys/power/wake_lock, LightsService
+03-16 17:26:03.936  1433  1433 D LightsService: [api] onReceive : SvcLEDReceiver re-enables LightSenor and sends MSG_FORCEDSVCLEDTASK
+03-16 17:26:03.936  1433  4682 D GameManagerService: identifyGamePackage. com.sec.android.app.launcher
+03-16 17:26:03.936  1433  4682 D GamePkgDataHelper: getGamePkgData(). com.sec.android.app.launcher
+03-16 17:26:03.938  1433  4682 D GamePkgDataHelper: getSosPolicy(). com.sec.android.app.launcher
+03-16 17:26:03.938  1433  4682 D GameManagerService: identifyGamePackage. com.sec.android.app.launcher
+03-16 17:26:03.938  1433  4682 D GamePkgDataHelper: getGamePkgData(). com.sec.android.app.launcher
+03-16 17:26:03.940  1433  4682 D GameManagerService: identifyGamePackage. com.sec.android.app.launcher
+03-16 17:26:03.940  1433  4682 D GamePkgDataHelper: getGamePkgData(). com.sec.android.app.launcher
+03-16 17:26:03.941   715   715 I SurfaceFlinger: id=480 createSurf (1026x521),1 flag=4, Application Error: org.sagebionetworks.research.bp#0
+03-16 17:26:03.941  1433  3105 I ActivityManager: DSS on for com.samsung.android.lool and scale is 1.0
+03-16 17:26:03.942  1433  1497 V Surface : sf_framedrop debug : 0x494d, game : false, logging : 0
+03-16 17:26:03.945  1433  1497 D ViewRootImpl@18a03e5[bp]: Relayout returned: old=[0,0][0,0] new=[33,824][1047,1333] result=0x7 surface={valid=true 522730516480} changed=true
+03-16 17:26:03.945  1433  1497 D ViewRootImpl@18a03e5[bp]: mThreadedRenderer.initialize() mSurface={isValid=true 522730516480} hwInitialized=true
+03-16 17:26:03.946  1433  1497 D WindowManager: set systemUiVisibility : systemUiFlags= 0x8018 fullscreenStackSysUiFlags= 0x0
+03-16 17:26:03.947  1433  1497 D ViewRootImpl@18a03e5[bp]: MSG_WINDOW_FOCUS_CHANGED 1
+03-16 17:26:03.946  3113  3113 D HomeContainer: setAlpha : 0.0
+03-16 17:26:03.948  1433  1497 D ViewRootImpl@18a03e5[bp]: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 522730516480}
+03-16 17:26:03.951 31077 31077 E propClient: PropClient failed to load
+03-16 17:26:03.952  1872  1872 D LightBarController: onNavigationVisibilityChanged : vis = 8018, nbModeChanged = false navigationBarMode = 4
+03-16 17:26:03.952  1433  3102 D WindowManager: adjustSystemUiVisibilityLw : vis= 0x8018
+03-16 17:26:03.957 31062 31062 D Proxy   : setHttpProxySystemPropertyInternal for uid 1000 The host value is null the port value is null
+03-16 17:26:03.957 31062 31062 D Proxy   : setHttpProxySystemPropertyInternal setEnterpriseProxySelector(0) host(null) port(null) username(null) pw(null) xl(null) 
+03-16 17:26:03.959  3113  3113 I Launcher: onWindowVisibilityChanged : true
+03-16 17:26:03.960  1433  3084 V WindowManager: Relayout Window{ed3dde u0 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}: viewVisibility=0 req=1080x2220 WM.LayoutParams{(0,0)(fillxfill) sim=#30 ty=1 fl=#81910d02 pfl=0x20000 fmt=-2 wanim=0x10302ea vsysui=0x700 needsMenuKey=2 colorMode=0 dimDuration=373 naviIconColor=0 sfl=0x40}
+03-16 17:26:03.961  1872  1872 D KeyguardUpdateMonitor: handleStatusBarState( false )
+03-16 17:26:03.963   715   715 I SurfaceFlinger: id=481 createSurf (1080x2220),1 flag=4, com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity#0
+03-16 17:26:03.964  1433  3084 V Surface : sf_framedrop debug : 0x494d, game : false, logging : 0
+03-16 17:26:03.964  1433  3084 V WindowManager: rotationForOrientationLw(orient=5, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false
+03-16 17:26:03.968  3113  3113 V Surface : sf_framedrop debug : 0x494d, game : false, logging : 0
+03-16 17:26:03.968  3113  3113 D ViewRootImpl@e64c296[LauncherActivity]: Relayout returned: old=[0,0][1080,2220] new=[0,0][1080,2220] result=0x7 surface={valid=true 547463073792} changed=true
+03-16 17:26:03.968  3113  3113 D ViewRootImpl@e64c296[LauncherActivity]: mThreadedRenderer.initialize() mSurface={isValid=true 547463073792} hwInitialized=true
+03-16 17:26:03.969  1433  1934 D SettingsProvider: isChangeAllowed() : name = overview_last_stack_active_time
+03-16 17:26:03.969  1433  1934 D SettingsProvider: edmUri: content://com.sec.knox.provider/RestrictionPolicy3
+03-16 17:26:03.969  1433  1934 D SettingsProvider: projectionArgs: isSettingsChangesAllowed
+03-16 17:26:03.969  1433  1934 D SettingsProvider: selectionArgs: false
+03-16 17:26:03.969  1433  1934 D SettingsProvider: selectionArgs: 10003
+03-16 17:26:03.970  1433  1497 D WindowManager: finishDrawingWindow: Window{cb9716b u0 Application Error: org.sagebionetworks.research.bp} mDrawState=DRAW_PENDING
+03-16 17:26:03.970  1433  1934 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+03-16 17:26:03.970  1433  1497 D ViewRootImpl@18a03e5[bp]: MSG_RESIZED_REPORT: frame=Rect(33, 824 - 1047, 1333) ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 0, 0) or=1
+03-16 17:26:03.971  1433  1934 D SecContentProvider: called from android.uid.systemui:10003
+03-16 17:26:03.971  1433  1934 D SettingsProvider: ret = -1
+03-16 17:26:03.972  3113  3113 I Launcher: onReceive: com.samsung.action.EVERY_MINUTE_CLOCK_UPDATE
+03-16 17:26:03.975   715   715 D Layer   : applyEffect ## com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity#0
+03-16 17:26:03.975 29824 29824 D [WeatherWidget(15491)]  : {[6C11AF6B4FCB9DCAB4345170D9ED58388CD9E9F96246696E3954D66A9FD1A3E4DAA10D485DBB20A3F4704B27B3F5E43F4134E3C5A1F0C618254B697267E5502E]}
+03-16 17:26:03.975   715   715 D Layer   : applyEffect ## animMode=3, target=2, pixType=1
+03-16 17:26:03.975   715   715 D Layer   : applyEffect ## pixAnim anim=13, timeMs=0, value=0.00, interp=0
+03-16 17:26:03.975   715   715 D Layer   : applyEffect ## pixAnim anim=13, timeMs=373, value=264.00, interp=3
+03-16 17:26:03.975   715   715 D Layer   : applyEffect ## pixAnim anim=14, timeMs=0, value=0.00, interp=0
+03-16 17:26:03.976   715   715 D Layer   : applyEffect ## pixAnim anim=14, timeMs=373, value=-15.00, interp=3
+03-16 17:26:03.976 29824 29824 D [WeatherWidget(15491)]  : {[971E79F21D291F3E25A59066823E6EED10BCAA1C8CD9EAEC01D2931DBDCA1F52]}
+03-16 17:26:03.976 29824 29824 D [WeatherWidget(15491)]  : {[3AE6950019B083611567B0F9442DB03E36B37708FCADB7FDDBA670B1362D994454BFFFDA2568816BBDDA6DD60F644DCF]}
+03-16 17:26:03.976 29824 29824 D [WeatherWidget(15491)]  : {[7D4F639F77B6855E38C8317E0887AB768887601C4A9B1831B73E028FDBFD770518C7BD333E78F22E99880B176BEE7E556BF0ED5F0260825BC40B929D557D1C18]}
+03-16 17:26:03.976 29824 29824 D [WeatherWidget(15491)]  : {[3AE6950019B083611567B0F9442DB03EF4A0ECA9EDEEE1C6764DEF6294C10F4F0BAD60A0CC696E8D15537EBE77D0F441F941FE30DFEB6E45A2BAA0295B86238B6B5477898ADD292C8EB7917680951853]}
+03-16 17:26:03.977 29824 29824 D [WeatherWidget(15491)]  : {[A1AF0F6A1A65A89C43D705938923D0FEA558DBC4F14B5A7738C1D8956C37E89074FF4D7C6EE0BC567C3DA47BB2D9FA4AC59A499E4B3FF837FB0392853B022EEBBF36B7B6D4E152C79CAFC2A5BBC521FF4C66E5CB0080B0190047CD92B1E7F2D7D47D718F076464DCB799A3D47D9AE545]}
+03-16 17:26:03.977  1433  1935 D SamsungAlarmManager: setInexact Intent (T:1/F:0/AC:false) 20180316T172700 (O:1521246420000/E:3575796/ME:3617816/RI:0) nowELAPSED=3519774 - CU:10091/CP:3113/op:PendingIntent{9c163a4: PendingIntentRecord{1e4f73d com.sec.android.app.launcher broadcastIntent}}
+03-16 17:26:03.977  1433  1935 I SamsungAlarmManager: setLocked to kernel - T:3 / 20180316T172659, SetElapsed=3575796, nowELAPSED=3519774
+03-16 17:26:03.979  1433  1497 D WindowManager: finishDrawingWindow: Window{cb9716b u0 Application Error: org.sagebionetworks.research.bp} mDrawState=HAS_DRAWN
+03-16 17:26:03.979  3113  3113 D AppsDragController: needDeferToBind : true , false
+03-16 17:26:03.981 31080 31080 E propClient: PropClient failed to load
+03-16 17:26:03.985  1433  1935 D PackageManager: getComponentMetadataForIconTray : org.sagebionetworks.research.bp.BpOverviewActivity does not exist in mServices
+03-16 17:26:03.986  1433  1935 D PackageManager: getComponentMetadataForIconTray : org.sagebionetworks.research.bp.BpOverviewActivity does not exist in mProviders
+03-16 17:26:03.986  1433  1935 D PackageManager: getComponentMetadataForIconTray : org.sagebionetworks.research.bp.BpOverviewActivity does not exist in mReceivers
+03-16 17:26:03.986  1872  1888 I ApplicationPackageManager: load=org.sagebionetworks.research.bp, bg=144-144, dr=126-126, forDefault=true, density=0
+03-16 17:26:03.986  1872  1888 I ApplicationPackageManager: scaled rate=201.0, size=126, alpha=0, hold=102
+03-16 17:26:03.986  1872  1888 D ApplicationPackageManager: iconScale: getScale(): 201.0 getAlpha(): 0
+03-16 17:26:03.987  1872  1888 I ApplicationPackageManager: load=org.sagebionetworks.research.bp-crop, bg=126-126, dr=126-126
+03-16 17:26:03.987 31062 31082 D libEGL  : loaded /vendor/lib64/egl/libEGL_adreno.so
+03-16 17:26:03.987  1872  1888 I ApplicationPackageManager: load=org.sagebionetworks.research.bp-crop, bg=126-126, dr=126-126
+03-16 17:26:03.990  1433  3102 D WindowManager: finishDrawingWindow: Window{ed3dde u0 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity} mDrawState=DRAW_PENDING
+03-16 17:26:03.991  1996  2033 D WallpaperService: dispatchAppVisibility onVisibilityChanged(): true
+03-16 17:26:03.991  1996  1996 D GLAnimatorManager: doFrame
+03-16 17:26:03.991  1996  1996 D GLAnimatorManager: needKeepUpdate = false
+03-16 17:26:03.991  1996  1996 D GLAnimatorManager: needStop = true
+03-16 17:26:03.991  1996  1996 D WallpaperService: updateSurface forceRelayout=false redrawNeeded=false myWidth=-1 myHeight=-1 fixedSize=false x = 0 y = 0 mWidth=-1 mHeight=-1
+03-16 17:26:03.992  1996  1996 D GalaxyWallpaper: onVisibilityChanged = true, mCurrentMode = HOME
+03-16 17:26:03.992  1996  1996 D GyroRender: beginSensing currentMode = HOME
+03-16 17:26:03.992  1433  3102 I SensorService: createSensorEventConnection package name com.android.systemui.infinity.GalaxyRenderer
+03-16 17:26:03.992  1433  3102 D SensorService: Calling batch handle==21 flags=0 rate=200000000 timeout== 0
+03-16 17:26:03.993  1996  2351 D GalaxyWallpaper: onSurfaceChanged()
+03-16 17:26:03.993   678  1563 I sensors-hal: batch:151, batch handle 21 
+03-16 17:26:03.993   678  1563 I sensors-hal: batch:162, com.samsung.sensor.interrupt_gyro/21, period=200000000, max_latency=0
+03-16 17:26:03.993   678  1563 I sensors-hal: batch:171, com.samsung.sensor.interrupt_gyro/21, period=200000000, max_latency=0 request completed
+03-16 17:26:03.993   678  1563 I sensors-hal: activate:121, activate handle 21 
+03-16 17:26:03.993   678  1563 I sensors-hal: activate:126, com.samsung.sensor.interrupt_gyro/21 en=1
+03-16 17:26:03.994  1872  1872 D KeyguardUpdateMonitor: handleStatusBarState( false )
+03-16 17:26:03.995 31062 31062 I SmApplication: MARs ver : 2.1, available : true
+03-16 17:26:03.995 31062 31062 I SmApplication: MARs ver : 2.1, exist : true
+03-16 17:26:03.995 31062 31062 E SmApplication: Initialization took 3ms
+03-16 17:26:03.999   678  1563 I sensors-hal: activate:137, com.samsung.sensor.interrupt_gyro/21 en=1 completed
+03-16 17:26:03.999  1996  1996 D SensorManager: registerListener :: 21, interrupt_gyro, 200000, 0,  
+03-16 17:26:03.999  1996  1996 D GyroRender: beginSensing SENSOR_DELAY_NORMAL
+03-16 17:26:03.999  1996  1996 D WallpaperService: reportVisibility onVisibilityChanged visible: true
+03-16 17:26:03.999  1996  1996 D WallpaperService: updateSurface forceRelayout=true redrawNeeded=false myWidth=-1 myHeight=-1 fixedSize=false x = 0 y = 0 mWidth=-1 mHeight=-1
+03-16 17:26:04.000  1433  3105 D ConnectivityService: filterNetworkStateForUid() uid: 10030 networkInfo: [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "S-DH-LAB", failover: false, available: true, roaming: false, metered: false]
+03-16 17:26:04.000  1433  3102 V WindowManager: Relayout Window{b2e0b9e u0 com.android.systemui.infinity.InfinityWallpaperBlack}: viewVisibility=0 req=-1x-1 WM.LayoutParams{(0,0)(fillxfill) gr=#800033 ty=2013 fl=#10318 pfl=0x4 fmt=2 wanim=0x103030d colorMode=0 naviIconColor=0 sfl=0x8}
+03-16 17:26:04.003  1996  1996 D GLAnimatorManager: doFrame
+03-16 17:26:04.004 31062 31062 I SmApplication: MARs ver : 2.1, available : true
+03-16 17:26:04.004 31062 31062 I SmApplication: MARs ver : 2.1, exist : true
+03-16 17:26:04.004 31062 31062 E SmApplication: Initialization took 1ms
+03-16 17:26:04.004 31062 31075 D SmProvider: Query uri = content://com.samsung.android.sm/settings selection = key=?
+03-16 17:26:04.005 31085 31085 E propClient: PropClient failed to load
+03-16 17:26:04.006 31062 31062 D SALogging: init SALog
+03-16 17:26:04.008  1996  1996 D GLAnimatorManager: doFrame
+03-16 17:26:04.010  1433  3102 D SamsungAlarmManager: setInexact Intent (T:3/F:0/AC:false) 20180316T172704 (O:3579805/E:3579805/ME:3624804/RI:0) nowELAPSED=3519806 - CU:10030/CP:24479/op:PendingIntent{505c30e: PendingIntentRecord{dcd41b8 com.google.android.gms broadcastIntent}}
+03-16 17:26:04.010 31062 31062 D SamsungAnalytics:109037: cf feature is supported
+03-16 17:26:04.010 24479 31078 E AppUsageEventWatcher: wrong time range: [1522762477236, 1521246364010)
+03-16 17:26:04.013   715   715 I SurfaceFlinger: Display 0 HWC layers:
+03-16 17:26:04.013   715   715 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+03-16 17:26:04.013   715   715 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+03-16 17:26:04.013   715   715 I SurfaceFlinger:      Device | 0x7c14d8ca00 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | org.sagebionetworks.research.bp/org.[...]etworks.research.bp.BpMainActivity#0
+03-16 17:26:04.013   715   715 I SurfaceFlinger:      Device | 0x7c1723f100 | 0000 | RGBA_8888 |   0.0    0.0   93.0  116.0 |  987  166 1080  282 | #1
+03-16 17:26:04.013   715   715 I SurfaceFlinger:      Device | 0x7c1723f680 | 0000 | RGBA_8888 |   0.0    0.0 1026.0  521.0 |   67  838 1011 1317 | Application Error: org.sagebionetworks.research.bp#0
+03-16 17:26:04.013   715   715 I SurfaceFlinger:      Device | 0x7c1470ff00 | 0000 | RGBA_8888 |   0.0    0.0 1080.0   63.0 |    0    0 1080   63 | StatusBar#0
+03-16 17:26:04.013   715   715 I SurfaceFlinger:      Device | 0x7c147c8000 | 0000 | RGBA_8888 |   0.0    0.0 1080.0  126.0 |    0 2094 1080 2220 | NavigationBar#0
+03-16 17:26:04.013   715   715 I SurfaceFlinger:      Device | 0x7c147c8800 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | #0
+03-16 17:26:04.013   715   715 I SurfaceFlinger: 
